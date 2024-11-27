@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kou911.github.io/react-todo-app",
+  "homepage": "https://kou911.github.io/react-todo-app-main",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
